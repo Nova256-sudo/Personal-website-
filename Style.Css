@@ -1,0 +1,23 @@
+body{
+font-family:Arial;
+background: #48D1CC;
+color:white;
+
+}
+.welcome{
+color:#00494a;
+font-size:27px;
+
+}
+.top span{
+color: black;
+
+}
+.info{
+boarder:2px solid yellow;
+padding: 20px;
+}
+b{color:white;}
+img{
+width:100%;
+}
